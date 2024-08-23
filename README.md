@@ -4,15 +4,7 @@ Created with Flask (Python micro framework for website development), SQlite3, HT
 ## Overview of the app itself
 This app is designed to streamline the interaction between restaurants, customers, and delivery personnel, providing a seamless integration of order processing and customer management. Its development reflects a commitment to leveraging modern web technologies to improve service quality and user experience in the food delivery industry.
 
-## Getting Started
- - Download/ Clone all necessary files from the repo
- - run app.py to get a link
- - press command and click the link to open the website
-
-Note that, this project consist of `database.py` that contains all the code for the database management for the website.
-
 ## Features
-There are many features including the features of customers and Admin. There is only one admin who is created while running the `app.py` code. 
 #### User Login
 Customers will be able to create an account on the website to log in and see the purchase history, buy items and interact with other informations.
 
